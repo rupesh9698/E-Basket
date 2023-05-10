@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E-Basket</string>
+    <string name="scan">SCAN</string>
+    <string name="pay">PAY</string>
+    <string name="long_press">Long press on item to remove</string>
+    <string name="clear_all">CLEAR ALL</string>
+</resources>
